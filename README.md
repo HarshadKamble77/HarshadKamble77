@@ -10,7 +10,7 @@
 
 ### 🔥 Projects & Work
 - 🔭 **Deep Learning Project:** [Audio Classification using Machine Learning]([https://github.com/HarshadKamble77/My-Projects/tree/main/Audio%20Classification](https://github.com/HarshadKamble77/My-Projects/tree/main/Audio%20Classification%20using%20Machine%20Learning))  
-- 👯 **Machine Learning Project:** [Website Phishing Detection](https://github.com/HarshadKamble77/My-Projects/blob/main/Website%20Phishing%20Detection)  
+- 👯 **Machine Learning Project:** [Website Phishing Detection]([https://github.com/HarshadKamble77/My-Projects/blob/main/Website%20Phishing%20Detection](https://github.com/HarshadKamble77/My-Projects/tree/main/Website-Phishing-Detection))  
 - 🤝 **Power BI Project:** [Patient Waitlist Analysis](https://github.com/HarshadKamble77/My-Projects/tree/main/Dashboard/Healthcare%20analysis%20-%20Patient%20Waitlist%20Dashboard)  
 - 👨‍💻 **All Projects:** [Explore Here](https://github.com/HarshadKamble77/My-Projects)  
 - 📝 **Portfolio Website:** [harshadkamble77.github.io](https://harshadkamble77.github.io/Harshad_Kamble.github.io/)
